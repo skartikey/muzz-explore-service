@@ -20,7 +20,7 @@ To run the Explore Service with Docker Compose, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:skartikey/muzz-explore-service.git
+   git clone https://skartikey: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@github.com/skartikey/muzz-explore-service.git
    cd muzz-explore-service
    ```
 
